@@ -4,9 +4,9 @@
   --header-height: 3rem;
   --font-semi: 600;
   /*===== Color =====*/
-  /*Purple 260 - Red 355 - Blue 224 - Pink 340*/
+  /*reddish purple 315*/
   /* HSL color mode */
-  --hue-color: 224;
+  --hue-color: 315;
   --first-color: hsl(var(--hue-color), 89%, 60%);
   --second-color: hsl(var(--hue-color), 56%, 12%);
   /*===== y tipograf =====*/
@@ -486,7 +486,7 @@ img {
     padding-top: 2rem;
   }
   .about__img img {
-    width: 300px;
+    width: 350px;
   }
   .skills__container {
     grid-template-columns: repeat(2, 1fr);
